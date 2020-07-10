@@ -10,7 +10,7 @@ Usage:
 Security:
 
 Certutil is vulnerable to attack via CVE-2020-0601. Attackers can use a vulnerability in Crypt32.dll and spoof the hash to make their virus look legitimate. Use at your own risk!
-Virustotal does a very good job at displaying hash as well. You can upload files to virustotal at virustotal.com
+Virustotal does a very good job at displaying hash as well. You can upload files to virustotal at https://www.virustotal.com/gui/home/upload
 
 
 Todo: tab autocompletion? file directory support? Bash version coming soon.
