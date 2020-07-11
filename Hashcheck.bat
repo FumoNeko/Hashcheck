@@ -1,5 +1,5 @@
 @echo off
-set /p filename="Enter Filepath: "
+set filename=%1
 @echo(
 CertUtil -hashfile %filename% MD2
 @echo(
